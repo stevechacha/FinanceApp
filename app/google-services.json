@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "699723474986",
+    "project_id": "financeapp-d8812",
+    "storage_bucket": "financeapp-d8812.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:699723474986:android:0b81e2e04a8a1715733b53",
+        "android_client_info": {
+          "package_name": "com.chacha.financeapp"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "699723474986-fcp9a8guu7jd21fcsdamsb9namr8tehf.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyD-awbKH_ffXYnCVzrzod8QLuAdxfONMFQ"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "699723474986-fcp9a8guu7jd21fcsdamsb9namr8tehf.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
